@@ -15,9 +15,16 @@ Este repositorio contiene mi archivo `autoexec.cfg` personalizado para CS2. Est�
 ### 1. ✅ Ubicación del archivo
 
 Copia el archivo `autoexec.cfg` en la siguiente ruta:
+
+![Image](https://github.com/user-attachments/assets/dd284d73-ed9f-490f-9fe5-ee3bbacba813)
+
+
 ...\Counter-Strike Global Offensive\game\csgo\cfg\
 
-📌 Si la carpeta no existe, créala manualmente.
+📌 Pegalo aqui :
+Si la carpeta no existe, créala manualmente.
+
+![Image](https://github.com/user-attachments/assets/9c5f27b2-6159-41ed-bb11-e821f1a665a9)
 
 ---
 
